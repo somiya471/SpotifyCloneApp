@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practice Spotify</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drivers_license">drivers license</string>
+    <string name="traitor">traitor</string>
+    <string name="good_for_u">good for u</string>
+    <string name="play">play</string>
+    <string name="pause">pause</string>
+    <string name="stop">stop</string>
+</resources>
